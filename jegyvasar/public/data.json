@@ -1,0 +1,17 @@
+[
+    {
+        "nev" : "KoncertJegy",
+        "kategoria": "Állóhely",
+        "ar" : "10000"
+    },
+    {
+        "nev" : "KoncertJegy",
+        "kategoria" : "Ülőhely",
+        "ar" : "8000"
+    },
+    {
+        "nev":"KoncertJegy",
+        "kategoria" : "VIP",
+        "ar" : "20000"
+    }
+]

@@ -1,0 +1,24 @@
+*{
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  margin-top: 40px;
+  margin-bottom: 20px;  
+}
+
+main{
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  margin: auto;
+  gap: 20px;
+}
+
+.ticketsWrapper{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
