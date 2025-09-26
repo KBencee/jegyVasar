@@ -17,7 +17,7 @@ const TicketCard = (props: Ticket) => {
     <div className="ticketCard">
         <h1 className="kategoria">{props.kategoria}</h1>
         <h3 className="nev">{props.nev}</h3>
-        <h2 className="ar">{props.ar}Ft</h2>
+        <h2 className="ar">{props.ar} Ft</h2>
         <AddToCartBtn
           count={count}
           increase={increase}

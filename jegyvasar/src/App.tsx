@@ -38,6 +38,9 @@ const App = () => {
 
   return (
     <CartContext.Provider value={{addToCart: addToCart, inCart: inCart}}>
+    <header>
+    <h1 id="cimsor">Jegybolt</h1>
+    </header>
     <main>
       <section className='ticketsWrapper'>
         {tickets.map(ticket => <TicketCard {...ticket} />)}

@@ -1,16 +1,16 @@
 [
     {
-        "nev" : "KoncertJegy",
+        "nev" : "Koncert jegy",
         "kategoria": "Állóhely",
         "ar" : "10000"
     },
     {
-        "nev" : "KoncertJegy",
+        "nev" : "Koncert jegy",
         "kategoria" : "Ülőhely",
         "ar" : "8000"
     },
     {
-        "nev":"KoncertJegy",
+        "nev":"Koncert jegy",
         "kategoria" : "VIP",
         "ar" : "20000"
     }
